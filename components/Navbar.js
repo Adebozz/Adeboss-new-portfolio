@@ -14,7 +14,7 @@ export default function Navbar() {
         <Flex alignItems={'center'}>
           <Link href="#about" className="px-3">About</Link>
           <Link href="#projects" className="px-3">Projects</Link>
-          <Link href="#Skills" className="px-3"></Link>
+          <Link href="#Skills" className="px-3">Skills</Link>
           <Link href="#contact" className="px-3">Contact</Link>
           <IconButton
             ml={4}
